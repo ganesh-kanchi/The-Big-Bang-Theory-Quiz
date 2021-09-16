@@ -20,7 +20,7 @@ var questions = [{
   question:"which international organization does howard work for occasionally? ",
   answer:"NASA"
 },{
-  question:"what is leonerd by profession? P.s: according to Sheldon ",
+  question:"what is leonerd by profession? P.s: according to Sheldon. ",
   answer:"experimental physicist"
 }];
 
