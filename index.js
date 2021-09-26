@@ -51,3 +51,4 @@ console.log("1.NA")
 console.log("2.NA")
 console.log("------------------------------")
 console.log("P.s: if you by any chance beat these scores ping so that i can update it and give you a certificate.")
+
